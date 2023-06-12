@@ -563,7 +563,7 @@ select { background-color: var(--box-1); color: var(--box-4); cursor: pointer; f
 .sceditor-toolbar { background: var(--box-3)!important; border-bottom: var(--b2)!important; padding: 10px!important; text-align: center; }
 .sceditor-group { background: var(--box-2)!important; border-bottom: 0px!important; border-radius: 3px!important; border: 1px solid var(--b2)!important; }
 a.sceditor-button.sceditor-button-source.hover, .sceditor-button.active, .sceditor-button:active, .sceditor-button:hover { background: var(--color-1)!important; } .sceditor-button, .sceditor-button div { opacity: .9; }
-.sceditor-container iframe, .sceditor-container textarea { color: var(--box-4)!important; }
+.sceditor-container iframe, .sceditor-container textarea { color:#060606!important; }
 
 /* - Perfiles en edicion - */
 #cp-main { width: 100%; margin: 0 auto!important; }
